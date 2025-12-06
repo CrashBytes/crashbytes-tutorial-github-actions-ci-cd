@@ -2,11 +2,11 @@
 
 Complete guide to workflow automation with GitHub Actions - from zero to production-ready pipelines.
 
-## 📖 Tutorial Article
+## Tutorial Article
 
 Read the full tutorial at: [CrashBytes - GitHub Actions CI/CD Complete Guide](https://crashbytes.com/articles/tutorial-github-actions-ci-cd-complete-guide-workflow-automation-2025)
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # Clone the repository
@@ -26,7 +26,7 @@ npm run lint
 npm start
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 .
@@ -49,7 +49,7 @@ npm start
 └── README.md                         # This file
 ```
 
-## 🔧 Workflows Included
+## Workflows Included
 
 ### 1. Continuous Integration (`ci.yml`)
 - Code linting with ESLint
@@ -84,7 +84,7 @@ npm start
 - Configurable working directory
 - Output test results
 
-## 🧪 Available Scripts
+## Available Scripts
 
 | Command | Description |
 |---------|-------------|
@@ -95,7 +95,7 @@ npm start
 | `npm run lint:fix` | Auto-fix style issues |
 | `npm run build` | Lint and test |
 
-## 🔐 Required Secrets
+## Required Secrets
 
 For full functionality, configure these secrets in your repository:
 
@@ -105,7 +105,7 @@ For full functionality, configure these secrets in your repository:
 | `STAGING_DEPLOY_TOKEN` | Staging environment credentials | Staging deploys |
 | `PRODUCTION_DEPLOY_TOKEN` | Production environment credentials | Production deploys |
 
-## 📚 What You'll Learn
+## What You'll Learn
 
 1. **GitHub Actions Fundamentals** - Workflows, jobs, steps, events
 2. **CI Pipeline Design** - Testing, linting, building
@@ -116,18 +116,18 @@ For full functionality, configure these secrets in your repository:
 7. **Secrets Management** - Secure credential handling
 8. **Reusable Workflows** - DRY pipeline configuration
 
-## 🤝 Contributing
+## Contributing
 
 This is a tutorial repository. Feel free to:
 - Open issues for questions
 - Submit PRs for improvements
 - Fork for your own learning
 
-## 📄 License
+## License
 
 MIT License - See [LICENSE](LICENSE) for details.
 
-## 🔗 Links
+## Links
 
 - [Tutorial Article](https://crashbytes.com/articles/tutorial-github-actions-ci-cd-complete-guide-workflow-automation-2025)
 - [GitHub Actions Documentation](https://docs.github.com/en/actions)
