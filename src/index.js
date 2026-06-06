@@ -9,6 +9,7 @@ function main() {
   console.log('Valid email test@example.com:', validateEmail('test@example.com'));
   console.log('Health check:', healthCheck());
   console.log('Status:', getStatus());
+  console.log('Configured port:', PORT);
 }
 
 if (require.main === module) {
