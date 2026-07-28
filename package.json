@@ -36,6 +36,6 @@
   "homepage": "https://crashbytes.com/articles/tutorial-github-actions-ci-cd-complete-guide-workflow-automation-2025",
   "overrides": {
     "brace-expansion": ">=5.0.7",
-    "js-yaml": ">=3.15.0"
+    "js-yaml": ">=5.2.2"
   }
 }
